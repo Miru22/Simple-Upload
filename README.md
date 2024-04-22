@@ -22,9 +22,18 @@ Using plotly or another web display repo the data will be pulled from Google She
 - Accomplish the objectives of the assignment.
 - Add features that provide actual functionality or demonstrate matestery of the assignment given the constraints of not having a backend web hosting environment
 ### Phase 2: Basic Functionality & Hosting
+- Build out uploads
+- Build out ploting functionality
 - Find a web deployment service
 - Deploy the service
-### Phase 3: Interactive Data
+### Phase 3: Additional Functionality
+- Clean up HTML, CSS, JS. Take out what is not relevant. Validate comments.
+- Build out upload functionality.
+- Build out plotting and data display functionality. This may involve a new page.
+
+### Phase 4: Input of Generative AI
+- Google Drive was used because you can quickly access generative AI tools such as LLAMA, Gemeni etc. (LLAMA v3 came out this week WOOT WOOT!) 
+- When files are uploaded, instead of having a human read over it, a generative AI tool can. A human can simply validate what is correct.
 
 ## References & Attribution
 ### Template - Bootstrap.com

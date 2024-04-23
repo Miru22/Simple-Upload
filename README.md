@@ -62,3 +62,5 @@ This is not complete yet. This is the tutorial I am using.
 ### Tutorial on Bootstrap Drag & Drop Upload Zone - https://www.youtube.com/watch?v=HrK7RFNDTKA
 
 Not used but it got me thinking in the right direction.
+
+### Code Help - ChatGPT from OpenAI
